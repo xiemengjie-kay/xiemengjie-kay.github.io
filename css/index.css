@@ -1,0 +1,25 @@
+/* selecting all h1 elements */
+h1 {
+  background-color: #ff0000;
+}
+
+/* selecting all h2 elements */
+h2 {
+  background-color: #0000FF;
+}
+
+/* selecting all h3 elements */
+h3 {
+  background-color: #00FF00;
+}
+
+/* style the body */
+body{
+  font-family: arial, sans-serif;
+  background-color: #C3BDE0;
+}
+
+em {
+  background-color: #000000;
+  color: #ffffff;
+}
